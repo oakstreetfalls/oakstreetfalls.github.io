@@ -11,3 +11,4 @@ it loses trust._
 - State law to require a financial disclosure statement on solicitation of funds by schools.
 <Example statement>
 
+[Analysis](../Analysis/about)
