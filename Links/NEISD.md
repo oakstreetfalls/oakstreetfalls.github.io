@@ -10,17 +10,17 @@
 
 [Principals' Meeting - November 8, 2018 - Meeting Resources](https://www.neisd.net/site/default.aspx?PageType=3&DomainID=7376&ModuleInstanceID=59460&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=111790&PageID=23370)
 
-[SAF/CAF Guidelines](https://www.neisd.net/cms/lib/TX02215002/Centricity/Domain/7376/SAF%20CAF%20Fraud.pptx)_.pptx_
+  [SAF/CAF Guidelines](https://www.neisd.net/cms/lib/TX02215002/Centricity/Domain/7376/SAF%20CAF%20Fraud.pptx)_.pptx_
 
-[SAF/CAF Memorandum](https://www.neisd.net/cms/lib/TX02215002/Centricity/Domain/7376/SAF%20CAF%20Sponsors.pdf)_.pdf_
+  [SAF/CAF Memorandum](https://www.neisd.net/cms/lib/TX02215002/Centricity/Domain/7376/SAF%20CAF%20Sponsors.pdf)_.pdf_
 
 # Local copies
 
 [Attachment-ETA Rocketry Club Resolution.pdf](https://oakstreetfalls.github.io/Analysis/Attachment-ETA%20Rocketry%20Club%20Resolution.pdf)
 
-[Presentation-SAF/CAF Fraud Detection and Prevention.pdf]
+[Presentation-SAF/CAF Fraud Detection and Prevention.pdf](https://oakstreetfalls.github.io)
 
-[Memborandum-Fiscal Responsibility.pdf]
+[Memorandum-Fiscal Responsibility.pdf](https://oakstreetfalls.github.io)
 
 # NEISD Documents
 
