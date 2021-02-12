@@ -6,7 +6,7 @@
 
 [January 13, 2020 at 5:30 PM - Regular](https://meetings.boardbook.org/Public/Agenda/1897?meeting=336750)
 
-[Attachment-ETA Rocketry Club Resolution](https://meetings.boardbook.org/Documents/WebViewer/1897?file=f39ecbec-5cb5-47ad-8805-16dd84535e35)
+[Attachment-ETA Rocketry Club Resolution](https://meetings.boardbook.org/Documents/WebViewer/1897?file=f39ecbec-5cb5-47ad-8805-16dd84535e35)_.pdf_
 
 [Principals' Meeting - November 8, 2018 - Meeting Resources](https://www.neisd.net/site/default.aspx?PageType=3&DomainID=7376&ModuleInstanceID=59460&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=111790&PageID=23370)
 
