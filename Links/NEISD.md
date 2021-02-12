@@ -18,9 +18,9 @@
 
 [Attachment-ETA Rocketry Club Resolution.pdf](https://oakstreetfalls.github.io/Analysis/Attachment-ETA%20Rocketry%20Club%20Resolution.pdf)
 
-[Presentation-SAF/CAF Fraud Detection and Prevention.pdf](https://oakstreetfalls.github.io)
+[Presentation-SAF/CAF Fraud Detection and Prevention.pdf](https://oakstreetfalls.github.io/Analysis/2018-11-09%20PPT%20Mitchell%20SAF%20CAF%20Fraud.pdf)
 
-[Memorandum-Fiscal Responsibility.pdf](https://oakstreetfalls.github.io)
+[Memorandum-Fiscal Responsibility.pdf](https://oakstreetfalls.github.io/Analysis/2018-11-09%20MMO%20Trevino%20Fiscal%20resonsibility.pdf)
 
 # NEISD Documents
 
@@ -30,6 +30,6 @@
 
 [NEISD Police-Follow Up Case Report.pdf](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf)
 
-[NEISD Auditor-Review of ETA Rocket Club Expenditures.pdf](https://oakstreetfalls.github.io)
+[NEISD Auditor-Review of ETA Rocket Club Expenditures.pdf](https://oakstreetfalls.github.io/Analysis/2018-03-20%20MMO%20Mitchell%20Review%20of%20ETA%20Rocket%20Club%20Expenditures.pdf)
 
-[NEISD Auditor-Review of ETA Rocket Club Expenditures-Appendices.pdf](https://oakstreetfalls.github.io)
+[NEISD Auditor-Review of ETA Rocket Club Expenditures-Appendices.pdf](https://oakstreetfalls.github.io/Analysis/2018-03-20%20APX%20Mitchell%20Review%20of%20ETA%20Rocket%20Club%20Expenditures.pdf)
