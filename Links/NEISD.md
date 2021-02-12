@@ -14,7 +14,7 @@
 
   [SAF/CAF Memorandum](https://www.neisd.net/cms/lib/TX02215002/Centricity/Domain/7376/SAF%20CAF%20Sponsors.pdf)_.pdf_
 
-# Local copies
+## Local copies
 
 [Attachment-ETA Rocketry Club Resolution.pdf](https://oakstreetfalls.github.io/Analysis/Attachment-ETA%20Rocketry%20Club%20Resolution.pdf)
 
