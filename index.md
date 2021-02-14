@@ -1,6 +1,6 @@
 # Home
 
-[Analysis](https://oakstreetfalls.github.io/Analysis/about.md)
+[Analysis](https://oakstreetfalls.github.io/Analysis/about)
 
-[Evidence](https://oakstreetfalls.github.io/Evidence/about.md)
+[Evidence](https://oakstreetfalls.github.io/Evidence/about)
 
