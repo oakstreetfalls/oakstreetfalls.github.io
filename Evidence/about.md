@@ -2,7 +2,7 @@
 
 The links below are to paths inside the repository.
 
-[Emails]
+[Email]
 
 [Travel Expense Reimbursements (TER)]
 
