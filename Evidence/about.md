@@ -4,7 +4,7 @@
 
 [Travel Expense Reimbursements (TER)](https://github.com/oakstreetfalls/oakstreetfalls.github.io/tree/master/Evidence/Travel%20Expense%20Reimbursements)
 
-[Checking=408 ETA](https://oakstreetfalls.github.io/Evidence/Checking-408%20ETA)
+[Checking-408 ETA](https://oakstreetfalls.github.io/Evidence/Checking-408%20ETA)
 
 [Checking-General Fund](https://oakstreetfalls.github.io/Evidence/Checking-General%20Fund)
 
