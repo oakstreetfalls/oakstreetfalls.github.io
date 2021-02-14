@@ -11,3 +11,20 @@
 [Checking - ]
 
 [Business Records]
+
+___
+
+File naming convention:
+
+YYYY-MM-DD <type> <rest-of-name>
+  
+| Type    | Description   | Example |
+|:---     | :---          | :--     |
+| MMO     | Memorandum    | 2016-02-20 MMO <author> <title> |
+| RPT     | Report        | |
+| PKS     | Packing Slip  | |
+| INV     | Invoice | |
+| CRQ     | Check Request | |
+| CRT     | Check Receipt | |
+| CSB     | Check Stub | |
+| Check   | Check Image | 
