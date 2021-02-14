@@ -3,6 +3,11 @@
 ## TASB
 [Texas Association of School Boards-Home](https://www.tasb.org/home.aspx)
 
+[Visitors to School Property and School Events](https://www.tasb.org/services/legal-services/tasb-school-law-esource/community/documents/visitors-to-school-property-and-school-events.pdf)_pdf_
+
+### Local Copies
+
+
 ## NEISD
 ### Links
 [Board of Trustees - Home](https://www.neisd.net/Page/980)
