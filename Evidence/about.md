@@ -4,11 +4,9 @@
 
 [Travel Expense Reimbursements (TER)](https://github.com/oakstreetfalls/oakstreetfalls.github.io/tree/master/Evidence/Travel%20Expense%20Reimbursements)
 
-[Checking - ] 
+[Checking=408 ETA] 
 
-[Checking - ]
-
-[Checking - ]
+[Checking-General Fund]
 
 [Business Records]
 
