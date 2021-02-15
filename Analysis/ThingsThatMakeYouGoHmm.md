@@ -27,7 +27,7 @@ Gentry & Moreno, Boston Lobster Feast, GSA per diem, M&IE Total $59
 [RFP Response]
 [Form 1925]
 
-### Apparrel
+### Aparrel
 [To: Gentry, Maria G;Moreno Christina A](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) "I'm trying to get hold of Joshua" Why is the email addressed to Mrs. Gentry?
 
 ### Investigation
