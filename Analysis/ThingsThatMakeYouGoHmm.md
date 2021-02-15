@@ -10,9 +10,9 @@ Joshua purchases tickets using his Florida address to obtain Florida state resid
 [Universal Studios Receipt](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
 
 
-Gentry & Moreno, GSA per diem, M&IE Total $59
-[Lobster Feast/GSA per diem]()
-[Lobster Feast/GSA per diem]()
+Gentry & Moreno, Boston Lobster Feast, GSA per diem, M&IE Total $59
+[Gentry TER](https://goakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf)
+[Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf)
 
 ### Watcher Drone
 [Looking for the parts]
