@@ -27,7 +27,7 @@ Gentry & Moreno
 [Form 1925]
 
 ### Apparrel
-[To: Gentry, Maria G;Moreno Christina A](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) "I'm trying to get hold of Joshua"
+[To: Gentry, Maria G;Moreno Christina A](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) "I'm trying to get hold of Joshua" Why is the email addressed to Mrs. Gentry?
 
 ### Investigation
 [Taking down the site]
@@ -38,7 +38,6 @@ Gentry & Moreno
 
 [Follow Up Case Report-pg 6: NEISD Human Resource](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=6)
 Estimated total loss of $18,907.00.  Only $16,054.07 (85%) recovered.  Most came from "summer paychecks" yet there was an order from the bankruptcy court to the District which required that money be paid to the petitioner.
-
 [Order to Employer](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122884920%20Order%20to%20Employer%201000%20USD%20per%20month%202017-09-01-hmmm.pdf)
 
 
