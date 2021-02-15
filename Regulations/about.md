@@ -3,7 +3,7 @@
 ## TASB
 [Texas Association of School Boards-Home](https://www.tasb.org/home.aspx)
 
-[Visitors to School Property and School Events](https://www.tasb.org/services/legal-services/tasb-school-law-esource/community/documents/visitors-to-school-property-and-school-events.pdf)_pdf_
+The provision may not be construed to infringe upon any right of free speech or expression [Visitors to School Property and School Events-pg 12 No disruptive activity](https://www.tasb.org/services/legal-services/tasb-school-law-esource/community/documents/visitors-to-school-property-and-school-events.pdf#page=12)
 
 ### Local Copies
 
