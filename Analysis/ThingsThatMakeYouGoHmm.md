@@ -25,8 +25,15 @@ Gentry & Moreno
 [RFP Response]
 [Form 1925]
 
+### Apparrel
+[Gentry Email]
+
 ### Investigation
 [Taking down the site]
 [Don't reply, just read]
 [Without reservation]
+[Meeting Adam]
+
+
+
 
