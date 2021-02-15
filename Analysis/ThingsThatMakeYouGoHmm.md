@@ -5,11 +5,12 @@
 Purchased 7/26/2017. The day after returning from PLTW training in Daytona, FL. 
 $31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month.
 
-### 2017 TSA Nationals - Orlando, FL
-Lozano
+### June 2017 TSA Nationals - Orlando, FL
+Joshua purchases tickets using his Florida address to obtain Florida state resident discount for Mr. Lozano
 [Universal Studios Receipt](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
 
-Gentry & Moreno
+
+Gentry & Moreno, GSA per diem, M&IE Total $59
 [Lobster Feast/GSA per diem]()
 [Lobster Feast/GSA per diem]()
 
