@@ -36,7 +36,7 @@ Gentry & Moreno
 [Meeting Adam]
 [PLTW response to Adam]
 [Keeping summer paychecks]
-[Order to Employer](https://github.com/oakstreetfalls/oakstreetfalls.github.io/blob/master/Evidence/Bankruptcy/17-%20180122884920%20Order%20to%20Employer%201000%20USD%20per%20month%202017-09-01-hmmm.pdf)
+[Order to Employer](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122884920%20Order%20to%20Employer%201000%20USD%20per%20month%202017-09-01-hmmm.pdf)
 
 
 
