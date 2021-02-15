@@ -11,7 +11,7 @@ Joshua purchases tickets using his Florida address to obtain Florida state resid
 
 
 Gentry & Moreno, Boston Lobster Feast, GSA per diem, M&IE Total $59
-[Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf)
+[Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20M%20OrlandoFL%20TSA%2031660.pdf)
 [Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf)
 
 ### Watcher Drone
