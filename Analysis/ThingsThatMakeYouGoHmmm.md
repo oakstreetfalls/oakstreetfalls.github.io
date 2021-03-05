@@ -6,6 +6,18 @@
 Why pay so much for a car the day after returning from PLTW training in Daytona, FL?
 $31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month. [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
 
+### Student Launch
+3/15/2017
+
+Isn't this making "false statements" to an agency of the federal government? From: Moreno, Christina A [mailto:cmoren1@neisd.net] 
+Sent: Wednesday, March 15, 2017 10:06 AM, "Joshua with Unmanned Propulsion has helped us a great deal with mentoring & video chat and funding all our supplies." [Subject: Re: **IMPORTANT DOCUMENT REQUEST**FW: STUDENT LAUNCH IMPORTANT INFORMATION](https://oakstreetfalls.github.io/Evidence/Email/UMP/Mentor/messages/20170315-Re___IMPORTANT%20DOCUMENT%20REQUEST__FW_%20STUDENT%20LAUNCH%20IMPORTANT%20INFORMATION-12.html)
+
+### Aparrel
+4/5/2017
+
+Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno? "I'm trying to get hold of Joshua"
+[To: Gentry, Maria G;Moreno Christina A](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) 
+
 ### Watcher Drone
 5/31/2017
 
@@ -29,19 +41,16 @@ Supper on 6/22, Boston Lobster Feast, $53.20
 6/22, $63.80
 6/23, $70.58
 
-### Student Launch
-[It's complicated]
-
 ### POs
-[One stop shop]
+6/28/2017
+
+Isn't this wire fraund? "They are a one stop shop.  No need to go to different vendors..."
+[Subject: Adam Taylor Unmanned Propulsion & Educational supplies](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20170628-Adam%20Taylor%20Unmanned%20Propulsion%20%26%20Educational%20supplies-3.html)
+
 [Lozano/Gentry approval]
 [We need to get you on the vendor list]
 [RFP Response]
 [Form 1925]
-
-### Aparrel
-Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno? "I'm trying to get hold of Joshua"
-[To: Gentry, Maria G;Moreno Christina A](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) 
 
 ### Investigation
 [Taking down the site]
