@@ -21,10 +21,12 @@ Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by J
 ### Watcher Drone
 5/31/2017
 
-Why is someone looking for the drone parts in May when they were paid for in November of the previous year?
+Why are the drone parts missing in May when they were paid for nearly six months prior?  These drones have never been built by ETA.
 "They are asking me for the drone parts."
 [Subject: Drone](https://oakstreetfalls.github.io/Evidence/Email/UMP/Watcher%20Drone/messages/20170531-Drone-15.html)
-
+"UN MANNED PROPULSION CORP $3,690.00      12/08/2016 General Supplies $3,690.00"
+[NEISD Check Register 12/1/2016 - 12/31/2016](https://oakstreetfalls.github.io/Evidence/Checking-General%20Fund/2016-12-31%20REG%20General.pdf)
+[Un Manned Propulsion Corp, 11/16/2016, Invoice 4001](https://oakstreetfalls.github.io/Evidence/Checking-General%20Fund/2016-11-09%20PRT%20786054-0-9013%202016-11-16%20INV%20UMP%204001%203690-00.pdf)
 
 ### TSA Nationals - Orlando, FL
 6/23/2017
@@ -32,14 +34,14 @@ Why is someone looking for the drone parts in May when they were paid for in Nov
 Joshua purchases tickets using his Florida address to obtain Florida state resident discount for Mr. Lozano
 [Universal Studios Receipt, page 1, Billing, Payment & Shipping](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
 
-6/22/2017 & 6/23/2017
-GSA M&IE per diem for Orlanda, FL = $59
-Supper on 6/22, Boston Lobster Feast, $53.20
+6/22-23/2017
+GSA M&IE per diem for Orlanda, FL = $59.
 [Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20M%20OrlandoFL%20TSA%2031618-hmmm.pdf), 
 6/22, $76.20
 [Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf),
 6/22, $63.80
 6/23, $70.58
+Supper alone on 6/22 at Boston Lobster Feast, $53.20.
 
 ### POs
 6/28/2017
@@ -48,7 +50,7 @@ Isn't this wire fraund? "They are a one stop shop.  No need to go to different v
 [Subject: Adam Taylor Unmanned Propulsion & Educational supplies](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20170628-Adam%20Taylor%20Unmanned%20Propulsion%20%26%20Educational%20supplies-3.html)
 
 10/5/2017
-Why did Mrs. Gentry and Mr. Lozano both not follow step 2? "For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html" [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
+Why did Mrs. Gentry and Mr. Lozano both not follow step 2? "For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html" and why submit a quote from someone in Costa Rica? [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
 
 10/13/17
 Doesn't this show intential continuation of the fraud? After being stopped for not being a proper vendor, "You need to have quotes from vendors that are on bid." Mrs. Moreno instructs Joshua: "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
