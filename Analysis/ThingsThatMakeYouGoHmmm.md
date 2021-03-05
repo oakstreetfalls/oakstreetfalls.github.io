@@ -2,11 +2,21 @@
 
 ### Un Manned Propulsion
 7/26/2016
+
 Why pay so much for a car the day after returning from PLTW training in Daytona, FL?
 $31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month. [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
 
-### June 2017 TSA Nationals - Orlando, FL
+### Watcher Drone
+5/31/2017
+
+Why is someone looking for the drone parts in May when they were paid for in November of the previous year?
+"They are asking me for the drone parts."
+[Subject: Drone](https://oakstreetfalls.github.io/Evidence/Email/UMP/Watcher%20Drone/messages/20170531-Drone-15.html)
+
+
+### TSA Nationals - Orlando, FL
 6/23/2017
+
 Joshua purchases tickets using his Florida address to obtain Florida state resident discount for Mr. Lozano
 [Universal Studios Receipt, page 1, Billing, Payment & Shipping](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
 
@@ -18,12 +28,6 @@ Supper on 6/22, Boston Lobster Feast, $53.20
 [Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf),
 6/22, $63.80
 6/23, $70.58
-
-### Watcher Drone
-5/31/2017
-Why is someone looking for the drone parts in May when they were paid for in November of the previous year?
-"They are asking me for the drone parts."
-[Subject: Drone](https://oakstreetfalls.github.io/Evidence/Email/UMP/Watcher%20Drone/messages/20170531-Drone-15.html)
 
 ### Student Launch
 [It's complicated]
