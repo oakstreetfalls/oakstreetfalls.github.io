@@ -47,9 +47,18 @@ Supper on 6/22, Boston Lobster Feast, $53.20
 Isn't this wire fraund? "They are a one stop shop.  No need to go to different vendors..."
 [Subject: Adam Taylor Unmanned Propulsion & Educational supplies](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20170628-Adam%20Taylor%20Unmanned%20Propulsion%20%26%20Educational%20supplies-3.html)
 
-[Lozano/Gentry approval]
-[We need to get you on the vendor list]
+10/5/2017
+Why did Mrs. Gentry and Mr. Lozano both not follow step 2? "For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html" [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
+
+10/13/17
+Doesn't this show intential continuation of the fraud? After being stopped for not being a proper vendor, "You need to have quotes from vendors that are on bid." Mrs. Moreno instructs Joshua: "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
+From: Moreno, Christina A
+Date: 10/13/17, 11:15 AM
+To: Joshua Moreno](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
+
+Un Manned Propulsion then submits a response to a currently open bid, even though it's not a bid for rocketry parts and supplies.
 [RFP Response]
+And NEISD approves the bid even though Form 1925 is blatantly false.
 [Form 1925]
 
 ### Investigation
