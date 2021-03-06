@@ -78,14 +78,14 @@ Isn't this wire fraund?
 
 Why did Mrs. Gentry and Mr. Lozano both not follow step 2? 
 >"2.  For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html"
-
-Why submit a quote from someone in Costa Rica? 
 * [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
+* "Johnny asked me to return this request to you.  You need to have quotes from vendors that are on bid."[See email sent Friday, October 6, 2017 2:46 PM, Subject: FW: ATTACHED: Repair Request
+](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
 
 10/13/17
 
-Doesn't this show deliberate continuation of the fraud? 
-* "You need to have quotes from vendors that are on bid." followed by "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
+Doesn't this show deliberate continuation and concealment of the fraud? 
+* "For your eyes only!! We need to get you on the BID list!" [See mail Date: 10/13/17, 11:15 AM, Subject: FW: ATTACHED: Repair Request
 ](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
 
 11//17
@@ -106,7 +106,7 @@ Why were the parts list different?
 
 Why were parts being shipped from Joshua?
 
-Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell?
+Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell? 
 
 Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list?
 
