@@ -1,29 +1,11 @@
 # Things That Make You Go Hmmm...
 
 ### Un Manned Propulsion Corp - Inception
-7/10-25/2016
-
-PLTW Aerospace training in Daytona, FL.
-
 7/26/2016
 
 Why pay so much for a car the day after returning from PLTW training in Daytona, FL?
 
 * $31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
-
-7/28-30/2016
-
-Advanced Rocketry Workship in Huntsville, AL.
-
-//2016
-UMP Incorporation
-
-//2016
-Sole Source Agreement
-
-//2016
-Conflict of Interest
-
 
 ### Student Launch
 3/15/2017
