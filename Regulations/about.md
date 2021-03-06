@@ -23,4 +23,10 @@ _Describes expected behaviour of board members_
 [NEISD Administrative Regualtions](https://www.neisd.net/Page/10007)
 
 ### Local Copies
-[Board Operationg Procedures](https://oakstreetfalls.github.io/Regulations/Board%20Operating%20Procedures%2011.19.2020.pdf)
+[Board Operating Procedures](https://oakstreetfalls.github.io/Regulations/Board%20Operating%20Procedures%2011.19.2020.pdf)
+
+[ACTIVITY FUND ACCOUNTING PROCEDURES-SPONSORS](https://oakstreetfalls.github.io/Regulations/Manual%20NEISD%20ACTIVITY%20FUND%20ACCOUNTING%20PROCEDURES-INFORMATION%20FOR%20SPONSORS%20.pdf)
+
+[ACTIVITY FUND ACCOUNTING PROCEDURES-BOOKKEEPERS](https://oakstreetfalls.github.io/Regulations/Manual%20NEISD%20SAF:CAF%20ACCOUNTING%20PROCEDURES%20MANUAL%20for%20Bookkeepers.pdf)
+
+[Student Parent Handbook-Secondary Schools-2017](https://oakstreetfalls.github.io/Regulations/Manual%20NEISD%202017%20Student%20Parent%20Handbook%20Secondary%20Schools.pdf)
