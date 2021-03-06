@@ -22,4 +22,4 @@ _Describe expected behaviour of board members_
 [NEISD Administrative Regualtions](https://www.neisd.net/Page/10007)
 
 ### Local Copies
-[Board Operationg Procedures]
+[Board Operationg Procedures](https://oakstreetfalls.github.io/Regulations/Board%20Operating%20Procedures%2011.19.2020.pdf)
