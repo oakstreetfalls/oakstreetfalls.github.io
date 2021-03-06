@@ -13,6 +13,9 @@
 
 ### May
 #### TARC
+5/12-16/2016
+Washington, DC
+Lozano & Moreno
 ETA rocketry team qualifies for SL.
 
 //
@@ -20,7 +23,15 @@ Rackspace Grant #1 $1500
 
 ## 2016-17
 Freshman
-#### UMP Inception
+### July
+#### PLTW Training / UMP Inception
+7/10-24/2016
+Daytona Beach, FL
+Moreno
+#### Advanced Rocketry Workshop
+7/27-31/2016
+Huntsville, AL
+Moreno
 ### April
 #### SL
 ### May
@@ -37,15 +48,16 @@ Sophomore
 ## 2018-19
 Junior
 ### April
-#### SL
+#### SL (Mock)
 ### May
 #### TARC
+
 ## 2019-20
 Senior
 ### April
-#### SL
+#### SL (Virtual)
 ### May
-#### TARC
+#### TARC (Virtual)
 
 
 ## 2020-21
