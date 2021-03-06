@@ -16,7 +16,7 @@ Isn't this making "false statements" to an agency of the federal government?
 ### Apparel
 4/5/2017
 
-Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno? 
+Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno of Un Manned Propulsion? 
 * "I'm trying to get hold of Joshua"
 [Subject: Re: Invoice from Embroidery Creations](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) 
 
