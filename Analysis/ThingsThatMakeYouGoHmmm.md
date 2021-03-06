@@ -35,13 +35,13 @@ Why are the drone parts missing in May when they were paid for nearly six months
 6/22-23/2017
 
 Why were Mrs. Gentry and Ms. Moreno allowed to exceed per diem? GSA M&IE per diem for Orlanda, FL was $59.  Supper alone on 6/22 at Boston Lobster Feast was $53.20.
-* [Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20M%20OrlandoFL%20TSA%2031618-hmmm.pdf), 
+* [Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20M%20OrlandoFL%20TSA%2031618-hmmm.pdf)  
 6/22, $76.20  
-* [Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf),
+* [Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf)  
 6/22, $63.80  
 6/23, $70.58  
 
-Is the NEISD travel expense system really 15 years old, or has the copyright date just not been updated?
+Is the NEISD travel expense system really 15 years old? or has the copyright date just not been updated?
 * "Copyright(c) 2005 North East Independent School District."
 
 6/23/2017
