@@ -4,8 +4,8 @@
 7/26/2016
 
 Why pay so much for a car the day after returning from PLTW training in Daytona, FL?
-$31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month. 
-* [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
+
+* $31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
 
 ### Student Launch
 3/15/2017
@@ -59,25 +59,39 @@ Isn't this wire fraund?
 10/5/2017
 
 Why did Mrs. Gentry and Mr. Lozano both not follow step 2? 
->"For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html"
-and why submit a quote from someone in Costa Rica? 
+>"2.  For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html"
+
+Why submit a quote from someone in Costa Rica? 
 * [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
 
 10/13/17
 
-Doesn't this show intential continuation of the fraud? 
+Doesn't this show deliberate continuation of the fraud? 
 * "You need to have quotes from vendors that are on bid." and then "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
 ](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
 
 11//17
-Why does Un Manned Propulsion submit a response for propsoal that isn't rocketry parts and supplies?  Could it be that it was the only proposal at that time?
+
+Why did Un Manned Propulsion submit a response for propsoal that isn't rocketry parts and supplies?  Could it be that it was the only proposal at that time?
 * [RFP Response]
 
 11//17
-Why did Mr. Bonham approve the proposal when Form 1925 is blatantly false.
+
+Why did Mr. Bonham approve a proposal where Form 1925 is blatantly false.
 * "Controlling Parter, North East ISD" [Form 1925]
 
 ### Investigation
+
+11//17
+
+Why were the parts list different?
+
+Why were parts being shipped from Joshua?
+
+Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell?
+
+Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list?
+
 [Taking down the site]
 [Don't reply, just read]
 [Without reservation]
@@ -88,7 +102,7 @@ Why did Mr. Bonham approve the proposal when Form 1925 is blatantly false.
 
 Why wasn't there a deeper and/or broader investigation? 
  
-
+Why was everyone who received a copy of Dr. Mitchel's report OK with not pressing charges?
 
 Why did NEISD consider receiving 85% of the a loss that was from a limited investigation as "being made whole"?
 
