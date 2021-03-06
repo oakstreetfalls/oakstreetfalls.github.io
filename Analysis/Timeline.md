@@ -13,6 +13,10 @@
 
 ### May
 #### TARC
+ETA rocketry team qualifies for SL.
+
+//
+Rackspace Grant #1 $1500
 
 ## 2016-17
 Freshman
