@@ -4,53 +4,59 @@
 7/26/2016
 
 Why pay so much for a car the day after returning from PLTW training in Daytona, FL?
-$31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month. [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
+$31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month. 
+* [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
 
 ### Student Launch
 3/15/2017
 
-Isn't this making "false statements" to an agency of the federal government? From: Moreno, Christina A [mailto:cmoren1@neisd.net] 
+Isn't this making "false statements" to an agency of the federal government? 
+* From: Moreno, Christina A [mailto:cmoren1@neisd.net] 
 Sent: Wednesday, March 15, 2017 10:06 AM, "Joshua with Unmanned Propulsion has helped us a great deal with mentoring & video chat and funding all our supplies." [Subject: Re: **IMPORTANT DOCUMENT REQUEST**FW: STUDENT LAUNCH IMPORTANT INFORMATION](https://oakstreetfalls.github.io/Evidence/Email/UMP/Mentor/messages/20170315-Re___IMPORTANT%20DOCUMENT%20REQUEST__FW_%20STUDENT%20LAUNCH%20IMPORTANT%20INFORMATION-12.html)
 
 ### Apparel
 4/5/2017
 
-Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno? "I'm trying to get hold of Joshua"
+Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno? 
+* "I'm trying to get hold of Joshua"
 [To: Gentry, Maria G;Moreno Christina A](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) 
 
 ### Watcher Drone
 5/31/2017
 
-Why are the drone parts missing in May when they were paid for nearly six months prior?  These drones have never been built by ETA.
-"They are asking me for the drone parts."
+Why are the drone parts missing in May when they were paid for nearly six months prior? 
+* "They are asking me for the drone parts."
 [Subject: Drone](https://oakstreetfalls.github.io/Evidence/Email/UMP/Watcher%20Drone/messages/20170531-Drone-15.html)
-"UN MANNED PROPULSION CORP $3,690.00      12/08/2016 General Supplies $3,690.00"
+* "UN MANNED PROPULSION CORP $3,690.00      12/08/2016 General Supplies $3,690.00"
 [NEISD Check Register 12/1/2016 - 12/31/2016](https://oakstreetfalls.github.io/Evidence/Checking-General%20Fund/2016-12-31%20REG%20General.pdf)
-[Un Manned Propulsion Corp, 11/16/2016, Invoice 4001](https://oakstreetfalls.github.io/Evidence/Checking-General%20Fund/2016-11-09%20PRT%20786054-0-9013%202016-11-16%20INV%20UMP%204001%203690-00.pdf)
+* [Un Manned Propulsion Corp, 11/16/2016, Invoice 4001](https://oakstreetfalls.github.io/Evidence/Checking-General%20Fund/2016-11-09%20PRT%20786054-0-9013%202016-11-16%20INV%20UMP%204001%203690-00.pdf)
 
 ### TSA Nationals - Orlando, FL
 6/23/2017
 
-Joshua purchases tickets using his Florida address to obtain Florida state resident discount for Mr. Lozano
+* Joshua purchases tickets for Mr. Lozano using Joshua's post and email addresses to attemp to obtain a Florida state resident discount. 
 [Universal Studios Receipt, page 1, Billing, Payment & Shipping](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
 
 6/22-23/2017
 GSA M&IE per diem for Orlanda, FL = $59.
-[Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20M%20OrlandoFL%20TSA%2031618-hmmm.pdf), 
+* [Gentry TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20M%20OrlandoFL%20TSA%2031618-hmmm.pdf), 
 6/22, $76.20
-[Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf),
+* [Moreno TER](https://oakstreetfalls.github.io/Evidence/Travel%20Expense%20Reimbursements/2017-06-20%20TER%20C%20OrlandoFL%20TSA%2031660.pdf),
 6/22, $63.80
 6/23, $70.58
-Supper alone on 6/22 at Boston Lobster Feast, $53.20.
+* Supper alone on 6/22 at Boston Lobster Feast, $53.20.
 
 ### POs
 6/28/2017
 
-Isn't this wire fraund? "They are a one stop shop.  No need to go to different vendors..."
+Isn't this wire fraund? 
+* "They are a one stop shop.  No need to go to different vendors..."
 [Subject: Adam Taylor Unmanned Propulsion & Educational supplies](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20170628-Adam%20Taylor%20Unmanned%20Propulsion%20%26%20Educational%20supplies-3.html)
 
 10/5/2017
-Why did Mrs. Gentry and Mr. Lozano both not follow step 2? "For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html" and why submit a quote from someone in Costa Rica? [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
+Why did Mrs. Gentry and Mr. Lozano both not follow step 2? 
+>"For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html" and why submit a quote from someone in Costa Rica? 
+* [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
 
 10/13/17
 Doesn't this show intential continuation of the fraud? After being stopped for not being a proper vendor, "You need to have quotes from vendors that are on bid." Mrs. Moreno instructs Joshua: "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
