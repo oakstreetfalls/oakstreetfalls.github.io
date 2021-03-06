@@ -67,13 +67,13 @@ Why submit a quote from someone in Costa Rica?
 10/13/17
 
 Doesn't this show deliberate continuation of the fraud? 
-* "You need to have quotes from vendors that are on bid." and then "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
+* "You need to have quotes from vendors that are on bid." followed by "We need to get you on the BID list!" [Subject: FW: ATTACHED: Repair Request
 ](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
 
 11//17
 
 Why did Un Manned Propulsion submit a response for propsoal that isn't rocketry parts and supplies?  Could it be that it was the only proposal at that time?
-* [RFP Response]
+* RFP 17-xxx Software and Software contractors [RFP Response]
 
 11//17
 
@@ -102,23 +102,48 @@ Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list
 
 Why wasn't there a deeper and/or broader investigation? 
  
-Why was everyone who received a copy of Dr. Mitchel's report OK with not pressing charges?
+Why was everyone who received a copy of Dr. Mitchel's report OK with not pressing charges?  
 
-Why did NEISD consider receiving 85% of the a loss that was from a limited investigation as "being made whole"?
 
-[Follow Up Case Report-pg 6: NEISD Human Resource](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=6)
-Estimated total loss of $18,907.00.  Only $16,054.07 (85%) recovered.  Most came from "summer paychecks" 
+How many different lies did Ms. Moreno tell?
+
+
+Why did NEISD consider 85% of an estimated loss that was from a limited investigation as "being made whole"?
+
+>The North East ISD Internal Audit Director, Anthony Mitchell estimated the total loss to NEISD at
+$18,907.00. 
+
+* "$18,907.00" [Page 2]((https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=2)
+
+>NEISD Human Resources
+NEISD Human Resources Employee Relations Officer Michael Wiley provided me a copy of an
+email he submitted to the Texas Education Agency's Investigator Mario Ramirez. The email states
+that Moreno made the district whole by accepting the terms of her resignation which was effective
+04/17/2018. The terms included that Moreno would not be paid out the remainder of her contract
+for this school year which was 43 days. The remainder of her salary, and what the district would have had to pay out for her medical insurance equalled $16,054.07.
+
+* "$16,054.07" [Page 6](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=6)
+
 
 Why didn't NEISD press charges? Really.
+> Conclusion
+Based on the information obtained during this investigation Moreno would have been charges with
+P.C. 32.46 Securing Execution of Document By Deception with the pecuniary interest being
+between $2,500 and $30,000; a State Jail Felony. Due to the district making a payment
+arrangement with the Moreno, this case is now a civil matter and no charges can be filed.
+* [Conclusion](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=7)
 
-Did NEISD violate the bankruptcy court order when they withheld Ms. Moreno "summer paychecks" as restitution for the theft?
+Did NEISD violate a bankruptcy court order when they took Ms. Moreno's summer paychecks?
 * "IT IS FURTHER ORDERED, that no deductions for account of any garnishment, wage assignment, credit union or other purpose
 not specifically authorized by this Court be made from the earnings of the debtor."
 [Order to Employer, dtd 9/1/2017](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122884920%20Order%20to%20Employer%201000%20USD%20per%20month%202017-09-01-hmmm.pdf)
 
+### NEISD Board Meeting
+1/13/2020
 
-Why wasn't the money returned to the rocketry club in April of 2018 when the district took it from Ms. Moreno?
-*
-
-
+Why wasn't the money returned to the rocketry club back in 2018 when the district first took it from Ms. Moreno?
+> "to restore the amount of twelve thousand, two hundred thirty-five
+dollars and seventy-seven cents ($12,235.77) to the ETA Rocketry Club.
+ADOPTED this 13th day of January 2020, by the Board of Trustees"
+* [Attachment-ETA Rocketry Club Resolution] (https://oakstreetfalls.github.io/Analysis/Attachment-ETA%20Rocketry%20Club%20Resolution.pdf)
 
