@@ -1,11 +1,29 @@
 # Things That Make You Go Hmmm...
 
-### Un Manned Propulsion
+### Un Manned Propulsion Corp - Inception
+7/10-25/2016
+
+PLTW Aerospace training in Daytona, FL.
+
 7/26/2016
 
 Why pay so much for a car the day after returning from PLTW training in Daytona, FL?
 
 * $31,220.50 @ 18.00% for 6 1/4 years = $778.57 / month [2016 Dodge Charger Sales Contract, page 5](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122954740%20Dodge%20Charger%20a%20Finance%20Contract%202016-07-26-hmmm.pdf#page=5)
+
+7/28-30/2016
+
+Advanced Rocketry Workship in Huntsville, AL.
+
+//2016
+UMP Incorporation
+
+//2016
+Sole Source Agreement
+
+//2016
+Conflict of Interest
+
 
 ### Student Launch
 3/15/2017
@@ -72,7 +90,7 @@ Doesn't this show deliberate continuation of the fraud?
 
 11//17
 
-Why did Un Manned Propulsion submit a response for propsoal that isn't rocketry parts and supplies?  Could it be that it was the only proposal at that time?
+Why did Un Manned Propulsion submit a response for propsoal that isn't rocketry parts and supplies?  Could it be that it was the only request open at that time?
 * RFP 17-xxx Software and Software contractors [RFP Response]
 
 11//17
@@ -98,24 +116,44 @@ Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list
 [Meeting Adam]
 [PLTW response to Adam]
 
-4/17/2018
+
+### Internal Audit
+3/20/2018
 
 Why wasn't there a deeper and/or broader investigation? 
- 
+> SCOPE
+The scope of this review is narrow. The review only focuses on the purchasing initiated by Ms.
+Christina Moreno with the company allegedly owned by her son, UMP. 
+* SCOPE [SUBJECT: Review of ETA Rocket Club Expenditures](https://oakstreetfalls.github.io/Analysis/2018-03-20%20MMO%20Mitchell%20Review%20of%20ETA%20Rocket%20Club%20Expenditures.pdf#page=12)
+
 Why was everyone who received a copy of Dr. Mitchel's report OK with not pressing charges?  
+>CLOSING COMMENTS  
+Internal Audit is appreciative of the cooperation provided by the ETA campus administration and  
+staff throughout this review.  
+c: Dr. Brian G. Gottardy, Superintendent North East ISO   
+   Mr. Wallace McCampbell, Chief of Police, NEISD  
+   Dr. Donna Newman, Associate Superintendent of Campus Administration and HR  
+   Mr. Dan Villarreal, CPA Associate Superintendent ofBusiness Services and CFO  
+   Dr. Sean Maika, Interim Assistant Superintendent of Instruction and Campus Admin  
+   Mr. Joel S. Trevino, Executive Director, Human Resources  
+   Mrs. Colleen Bohrmann, Executive Director Learning Support Services  
+   Mr. David Bohannon, Executive Director Procurement and e-Commerce  
+   Mr. Ben Peterson, Senior Director Career and Technical Education  
+   Mr. Melvin Echard, Principal Roosevelt High School   
 
+* CLOSING COMMENTS [SUBJECT: Review of ETA Rocket Club Expenditures](https://oakstreetfalls.github.io/Analysis/2018-03-20%20MMO%20Mitchell%20Review%20of%20ETA%20Rocket%20Club%20Expenditures.pdf#page=12)
 
-How many different lies did Ms. Moreno tell?
-
+### Follow Up Case Report
+7/16/2018
 
 Why did NEISD consider 85% of an estimated loss that was from a limited investigation as "being made whole"?
 
 >The North East ISD Internal Audit Director, Anthony Mitchell estimated the total loss to NEISD at
 $18,907.00. 
 
-* "$18,907.00" [Page 2]((https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=2)
+* "$18,907.00" [Page 2](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=2)
 
->NEISD Human Resources
+>NEISD Human Resources  
 NEISD Human Resources Employee Relations Officer Michael Wiley provided me a copy of an
 email he submitted to the Texas Education Agency's Investigator Mario Ramirez. The email states
 that Moreno made the district whole by accepting the terms of her resignation which was effective
@@ -126,7 +164,7 @@ for this school year which was 43 days. The remainder of her salary, and what th
 
 
 Why didn't NEISD press charges? Really.
-> Conclusion
+> Conclusion  
 Based on the information obtained during this investigation Moreno would have been charges with
 P.C. 32.46 Securing Execution of Document By Deception with the pecuniary interest being
 between $2,500 and $30,000; a State Jail Felony. Due to the district making a payment
