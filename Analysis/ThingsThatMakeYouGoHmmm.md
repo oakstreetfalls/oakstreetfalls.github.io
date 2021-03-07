@@ -103,7 +103,7 @@ Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list
 3/20/2018
 
 Why wasn't there a deeper and/or broader investigation? 
-> SCOPE
+> SCOPE   
 The scope of this review is narrow. The review only focuses on the purchasing initiated by Ms.
 Christina Moreno with the company allegedly owned by her son, UMP. 
 * SCOPE [SUBJECT: Review of ETA Rocket Club Expenditures](https://oakstreetfalls.github.io/Analysis/2018-03-20%20MMO%20Mitchell%20Review%20of%20ETA%20Rocket%20Club%20Expenditures.pdf#page=12)
@@ -128,7 +128,7 @@ c: Dr. Brian G. Gottardy, Superintendent North East ISO
 ### Follow Up Case Report
 7/16/2018
 
-Why did NEISD consider 85% of an estimated loss that was from a limited investigation as "being made whole"?
+Why did NEISD consider 85% of an estimated loss that was from a limited investigation as "being made whole"? $18,907 / $16,054 = 85%.
 
 >The North East ISD Internal Audit Director, Anthony Mitchell estimated the total loss to NEISD at
 $18,907.00. 
@@ -144,8 +144,7 @@ for this school year which was 43 days. The remainder of her salary, and what th
 
 * "$16,054.07" [Page 6](https://oakstreetfalls.github.io/Analysis/2018-03-22%20RPT%20Dominguez%20Follow%20Up%20Case%2018-01155.pdf#page=6)
 
-
-Why didn't NEISD press charges? Really.
+Why didn't NEISD really press charges? Isn't this just another form of "Passing the Trash"?
 > Conclusion  
 Based on the information obtained during this investigation Moreno would have been charges with
 P.C. 32.46 Securing Execution of Document By Deception with the pecuniary interest being
@@ -157,6 +156,12 @@ Did NEISD violate a bankruptcy court order when they took Ms. Moreno's summer pa
 * "IT IS FURTHER ORDERED, that no deductions for account of any garnishment, wage assignment, credit union or other purpose
 not specifically authorized by this Court be made from the earnings of the debtor."
 [Order to Employer, dtd 9/1/2017](https://oakstreetfalls.github.io/Evidence/Bankruptcy/17-%20180122884920%20Order%20to%20Employer%201000%20USD%20per%20month%202017-09-01-hmmm.pdf)
+
+### ETA Awards Night
+5/22/2019
+
+If Joshua Moreno could donate $700 to a scholarship then why couldn't he be asked to repay the stolen money?
+* [Facebook posts]
 
 ### NEISD Board Meeting
 1/13/2020
