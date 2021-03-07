@@ -4,24 +4,24 @@ _When educators are allowed to steal, the school loses more than money,
 it loses trust._
 
 ### Justice for the Past
-- Restoration of all funds
+#### Restoration of all funds
 -   Internal Auditor
-- Criminal prosecutions
+#### Criminal prosecutions
 -   NEISD Police
 -   FL PI
-- Ethics Violations
+#### Ethics Violations
 -   TEA
-- Publicity
+#### Publicity
 -   KENS 5/San Antonio Express News
 -   San Antonio Report
 
 ### Prevention for the Future
-- Activity Funds
+#### Activity Funds
 -   Proper classification of funds
 -   Better clarification of student vs. campus
 -   Better sponsor tools and education
-- State Law
+#### State Law
 -   Financial disclosure statement on solicitation of funds
-- Publicity
+#### Publicity
 -   KENS 5/San Antonio Express News
 -   San Antonio Report
