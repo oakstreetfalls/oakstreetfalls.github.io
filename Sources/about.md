@@ -25,7 +25,9 @@ VOLUSIA COUNTY
 
 Florida Division of Corporations - Notary Commissions and Apostille/Certification Sections  
 Notary Search  
-[http://notaries.dos.state.fl.us/not001.html](http://notaries.dos.state.fl.us/not001.html)
+[http://notaries.dos.state.fl.us/not001.html](http://notaries.dos.state.fl.us/not001.html)  
+ADAM TAYLOR --> 1370324  
+TODD STEFANIAK --> 1041606  
   
 ### Daytona Beach
 Business Licenses  
