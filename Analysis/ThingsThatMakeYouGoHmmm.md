@@ -170,5 +170,5 @@ Why wasn't the money returned to the rocketry club back in 2018 when the distric
 > "to restore the amount of twelve thousand, two hundred thirty-five
 dollars and seventy-seven cents ($12,235.77) to the ETA Rocketry Club.
 ADOPTED this 13th day of January 2020, by the Board of Trustees"
-* [Attachment-ETA Rocketry Club Resolution] (https://oakstreetfalls.github.io/Analysis/Attachment-ETA%20Rocketry%20Club%20Resolution.pdf)
+* [Attachment-ETA Rocketry Club Resolution](https://oakstreetfalls.github.io/Analysis/Attachment-ETA%20Rocketry%20Club%20Resolution.pdf)
 
