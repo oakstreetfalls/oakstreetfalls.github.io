@@ -8,5 +8,3 @@
 
 [Regulations](https://oakstreetfalls.github.io/Regulations/about)
 
-[Sources](https://oakstreetfalls.github.io/Sources/about)
-
