@@ -16,12 +16,14 @@ Notary Search
 Business Licenses  
 eTRAKiT  
 [https://crw.codb.us/eTRAKiT3/Search/license.aspx](https://crw.codb.us/eTRAKiT3/Search/license.aspx)  
+Location Addr | Contains | 1116 PELICAN BAY DRIVE --> AJT CONSULTING
 
 ### Port Orange
 
 ### Volusia County
 Excise :: Tourist Development Tax System  
-[https://volusia.ptghome.com/excisebt/BTRLogin.aspx](https://volusia.ptghome.com/excisebt/BTRLogin.aspx)
+[https://volusia.ptghome.com/excisebt/BTRLogin.aspx](https://volusia.ptghome.com/excisebt/BTRLogin.aspx)  
+Business Name | AJT --> AJT CONSULTING  
 
 UN MANNED PROPULSION CORP 
 81-3689513  
