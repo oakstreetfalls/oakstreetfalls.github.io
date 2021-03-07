@@ -72,7 +72,7 @@ Doesn't this show deliberate continuation and concealment of the fraud?
 
 11//17
 
-Why did Un Manned Propulsion submit a response for propsoal that isn't rocketry parts and supplies?  Could it be that it was the only request open at that time?
+Why did Un Manned Propulsion submit a response for a propsoal that isn't rocketry parts and supplies?  Could it be that it was the only request open at that time?
 * RFP 17-xxx Software and Software contractors [RFP Response]
 
 11//17
@@ -84,17 +84,12 @@ Why did Mr. Bonham approve a proposal where Form 1925 is blatantly false.
 
 11//17
 
-Why were the parts list different?
-
-Why were parts being shipped from Joshua?
-
 Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell? 
 
 Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list?
 
 [Taking down the site]
 [Don't reply, just read]
-[Without reservation]
 [Meeting Adam]
 [PLTW response to Adam]
 
