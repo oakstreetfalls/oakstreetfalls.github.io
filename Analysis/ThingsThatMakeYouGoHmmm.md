@@ -10,20 +10,25 @@ Why, the day after returning from PLTW training in Daytona, FL, would you pay so
 ### Student Launch
 3/15/2017
 
-Isn't this making "false statements" to an agency of the federal government? 
+Isn't this making false statements to an agency of the federal government? 
 * "Joshua with Unmanned Propulsion has helped us a great deal with mentoring & video chat and funding all our supplies." [Subject: Re: **IMPORTANT DOCUMENT REQUEST**FW: STUDENT LAUNCH IMPORTANT INFORMATION](https://oakstreetfalls.github.io/Evidence/Email/UMP/Mentor/messages/20170315-Re___IMPORTANT%20DOCUMENT%20REQUEST__FW_%20STUDENT%20LAUNCH%20IMPORTANT%20INFORMATION-12.html)
 
 ### Apparel
 4/5/2017
 
-Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno of Un Manned Propulsion? 
+Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by Joshua Moreno of Un Manned Propulsion?  How involved was Mrs. Gentry?
 * "I'm trying to get hold of Joshua"
 [Subject: Re: Invoice from Embroidery Creations](https://oakstreetfalls.github.io/Evidence/Email/UMP/Shirts/messages/20170405-Re_Invoice%20from%20Embroidery%20Creations-3.html) 
 
 ### Watcher Drone
+
+Why is Christina using ETA's 3-D printers to print drone pieces for Joshua before the drone PO was created?
+[Drone PO]
+[Drone parts email]
+
 5/31/2017
 
-Why are the drone parts missing in May when they were paid for nearly six months prior? 
+Why are the drone parts missing when they were paid for nearly six months prior? Have these drones ever flown? Is this a complete loss?
 * "They are asking me for the drone parts. Camera etc.."
 [Subject: Drone](https://oakstreetfalls.github.io/Evidence/Email/UMP/Watcher%20Drone/messages/20170531-Drone-15.html)
 * "UN MANNED PROPULSION CORP      $3,690.00  
@@ -46,8 +51,9 @@ Is the NEISD travel expense system really 15 years old? or has the copyright dat
 
 6/23/2017
 
-Why did Joshua purchase tickets for Mr. Lozano using Joshua's address? It qualifies the purchase for a Florida resident discount, but "To pick up your ticket(s) ... a valid Florida photo ID for any Florida Resident products purchased ..."
+Why did Joshua purchase tickets for Mr. Lozano using Joshua's address? It qualifies the purchase for a Florida resident discount, but "To pick up your ticket(s) ... a valid Florida photo ID for any Florida Resident products purchased ..."  Did this really work?  Didn't Mr. Lozano just approve buying an overpriced laptop from Joshua's company?
 * "Billing Information, Robert Lozano, 212 Integra Shores Dr, Suite 203, Daytona Beach, FL" [Subject: Your Ticket Order Confirmation](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
+* [Laptop invoice]
 
 ### POs
 6/28/2017
@@ -58,7 +64,7 @@ Isn't this wire fraund?
 
 10/5/2017
 
-Why did Mrs. Gentry and Mr. Lozano both not follow step 2? 
+Why did Mrs. Gentry and Mr. Lozano both not follow step 2?  How much were they involved? 
 >"2.  For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html"
 * [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
 * "Johnny asked me to return this request to you.  You need to have quotes from vendors that are on bid."[See email sent Friday, October 6, 2017 2:46 PM, Subject: FW: ATTACHED: Repair Request
@@ -66,7 +72,7 @@ Why did Mrs. Gentry and Mr. Lozano both not follow step 2?
 
 10/13/17
 
-Doesn't this show deliberate continuation and concealment of the fraud? 
+Doesn't this show deliberate continuation of the fraud? 
 * "For your eyes only!! We need to get you on the BID list!" [See mail Date: 10/13/17, 11:15 AM, Subject: FW: ATTACHED: Repair Request
 ](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
 
@@ -89,7 +95,11 @@ Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell?
 Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list?
 
 [Taking down the site]
+
+Why are you warning Joshua?
 [Don't reply, just read]
+
+So, how did you meet Adam Taylor?
 [Meeting Adam]
 [PLTW response to Adam]
 
@@ -157,6 +167,11 @@ not specifically authorized by this Court be made from the earnings of the debto
 
 If Joshua Moreno could donate $700 to a scholarship then why couldn't he be asked to repay the stolen money?
 * [Facebook posts]
+
+### ETA Potluck
+9//2019
+
+Why would Mrs. Gentry make the statements,"It was an unfortunate incident", "...need to move on.", and "We lost a good teacher when Ms. Moreno left."  Again, just how invovled was Mrs. Gentry?  They had co-sponsored TSA for several years.  They had shared fundraisers.  One of the coolers for the paletas was installed in Mrs. Gentry's room.
 
 ### NEISD Board Meeting
 1/13/2020
