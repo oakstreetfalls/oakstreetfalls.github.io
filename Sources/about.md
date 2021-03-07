@@ -46,7 +46,10 @@ NAR HPR Certified Member Search | National Association of Rocketry
 
 ### Texas
 SBEC Official Record of Educator Certificate Search  
-[https://secure.sbec.state.tx.us/SBECONLINE/virtcert.asp](https://secure.sbec.state.tx.us/SBECONLINE/virtcert.asp)
+[https://secure.sbec.state.tx.us/SBECONLINE/virtcert.asp](https://secure.sbec.state.tx.us/SBECONLINE/virtcert.asp)  
+Christina Alexandra Moreno  
+Robert Lozano --> Robert Lozano Jr  
+Maria Grizelda Gentry  
 
 ### United States 
 PACER Case Locator | Public Access to Court Electronic Records  
