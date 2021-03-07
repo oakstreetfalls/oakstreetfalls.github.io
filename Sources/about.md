@@ -8,6 +8,21 @@ Division of Operations / Open Records Request
 Search Records - Division of Corporations - Florida Department of State  
 [https://dos.myflorida.com/sunbiz/search/](https://dos.myflorida.com/sunbiz/search/)
 
+UN MANNED PROPULSION CORP 
+81-3689513  
+  
+1116 PELICAN BAY DRIVE  
+DAYTONA BEACH, FL  32119  
+VOLUSIA COUNTY  
+8/24/2016  
+
+5889 S WILLIAMSON BLVD  
+SUITE #1327  
+PORT ORANGE, FL  32128  
+VOLUSIA COUNTY  
+4/20/2018  
+
+
 Florida Division of Corporations - Notary Commissions and Apostille/Certification Sections  
 Notary Search  
 [http://notaries.dos.state.fl.us/not001.html](http://notaries.dos.state.fl.us/not001.html)
@@ -24,20 +39,6 @@ Location Addr | Contains | 1116 PELICAN BAY DRIVE --> AJT CONSULTING
 Excise :: Tourist Development Tax System  
 [https://volusia.ptghome.com/excisebt/BTRLogin.aspx](https://volusia.ptghome.com/excisebt/BTRLogin.aspx)  
 Business Name | AJT --> AJT CONSULTING  
-
-UN MANNED PROPULSION CORP 
-81-3689513  
-  
-1116 PELICAN BAY DRIVE  
-DAYTONA BEACH, FL  32119  
-VOLUSIA COUNTY  
-8/24/2016  
-
-5889 S WILLIAMSON BLVD  
-SUITE #1327  
-PORT ORANGE, FL  32128  
-VOLUSIA COUNTY  
-4/20/2018  
 
 ### NAR
 NAR HPR Certified Member Search | National Association of Rocketry  
