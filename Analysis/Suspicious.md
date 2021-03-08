@@ -29,6 +29,9 @@ Why did Mrs. Gentry and Mr. Lozano both not follow step 2?
 * "Johnny asked me to return this request to you.  You need to have quotes from vendors that are on bid."[See email sent Friday, October 6, 2017 2:46 PM, Subject: FW: ATTACHED: Repair Request
 ](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
 
+Where's the second signature?
+[]()
+
 ### Investigation
 
 11//17
