@@ -13,28 +13,11 @@ Why were Mrs. Gentry and Ms. Moreno allowed to exceed per diem? GSA M&IE per die
 Is the NEISD travel expense system really 15 years old? or has the copyright date just not been updated?
 * "Copyright(c) 2005 North East Independent School District."
 
+### Contracts
 11//17
 
 Why did Mr. Bonham approve a proposal where Form 1925 is blatantly false.
 * "Controlling Parter, North East ISD" [Form 1925]
-
-### Investigation
-
-11//17
-
-Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell? 
-
-Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list?
-
-[Taking down the site]
-
-Why are you warning Joshua?
-[Don't reply, just read]
-
-So, how did you meet Adam Taylor?
-[Meeting Adam]
-[PLTW response to Adam]
-
 
 ### Internal Audit
 3/20/2018
