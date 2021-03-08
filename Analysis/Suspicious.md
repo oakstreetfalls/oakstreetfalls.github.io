@@ -16,9 +16,8 @@ Why would someone be reaching out to Mrs. Gentry regarding shirts purchased by J
 ### TSA Nationals - Orlando, FL
 6/23/2017
 
-Why did Joshua purchase tickets for Mr. Lozano using Joshua's address? It qualifies the purchase for a Florida resident discount, but "To pick up your ticket(s) ... a valid Florida photo ID for any Florida Resident products purchased ..."  Did this really work?  Didn't Mr. Lozano just approve buying an overpriced laptop from Joshua's company?
+Why did Joshua purchase tickets for Mr. Lozano using Joshua's address? It qualifies the purchase for a Florida resident discount, but "To pick up your ticket(s) ... a valid Florida photo ID for any Florida Resident products purchased ..."
 * "Billing Information, Robert Lozano, 212 Integra Shores Dr, Suite 203, Daytona Beach, FL" [Subject: Your Ticket Order Confirmation](https://oakstreetfalls.github.io/Evidence/Email/UMP/TSA/messages/Attachments-1/receipt.pdf)
-* [Laptop invoice]
 
 ### POs
 10/5/2017
@@ -36,12 +35,3 @@ Why did Mrs. Gentry and Mr. Lozano both not follow step 2?
 Why didn't Mr. Lozano report the suspicions about embezzlement to Dr. Mitchell? 
 
 Why didn't Mr. Bohomn look deeper instead of just consulting the bid vendor list?
-
-[Taking down the site]
-
-Why are you warning Joshua?
-[Don't reply, just read]
-
-So, how did you meet Adam Taylor?
-[Meeting Adam]
-[PLTW response to Adam]
