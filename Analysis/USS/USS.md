@@ -1,10 +1,12 @@
 # Unmanned Systems Source
 11/7/2016 - 4/17/2017
 
+$5,500.04
+
 Forged 15 receipts, from a company that was not a valid vendor, and
 submitted them for reimbursement in 14 check requests over a period
-of six months.  That's roughly one reimbursement every two weeks, $900/month,
-for total of $5,500.04.
+of six months.  That's roughly one reimbursement every two weeks with 
+an average of $900 / month.
 
 Line|Date|Invoice|Amount|Check Date|Check No.
 --:|---|---|--:|---|---
