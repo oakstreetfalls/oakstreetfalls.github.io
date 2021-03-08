@@ -1,7 +1,9 @@
 # Autodesk
 7/31/2017
 
-Forged training class receipt and certificate, then submitted expense report including mileage, for a total of $1,603.50.
+$1,603.50
+
+Forged training class receipt and certificate, then submitted expense report including mileage.
 
 |Description|Amount|
 |---|--:|
