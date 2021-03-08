@@ -24,6 +24,7 @@ Why did Joshua purchase tickets for Mr. Lozano using Joshua's address? It qualif
 
 Why did Mrs. Gentry and Mr. Lozano both not follow step 2?
 >"2.  For all other equipment, attach a repair/service quote from the vendor.  Vendors must be either on the Vendor Bid List or a Purchasing Cooperative.  These can be found on the Procurement & ecommerce intranet website at http://intranet.int.neisd.net/purc/purchasing_tips.html"  
+
 * [Equipment Repair/Service Request](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/Attachments-8/Repair%20HP%20Design%20jet%20T1300.pdf)
 * "Johnny asked me to return this request to you.  You need to have quotes from vendors that are on bid."[See email sent Friday, October 6, 2017 2:46 PM, Subject: FW: ATTACHED: Repair Request
 ](https://oakstreetfalls.github.io/Evidence/Email/UMP/Misdirected%20POs/messages/20171013-FW_%20ATTACHED_%20Repair%20Request-10.html)
