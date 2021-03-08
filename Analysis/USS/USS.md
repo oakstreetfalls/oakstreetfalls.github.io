@@ -26,3 +26,6 @@ Line|Date|Invoice|Amount|Check Date|Check No.
 Total| ||$5,500.04| |
 
 
+<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">
+<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">
+<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">
