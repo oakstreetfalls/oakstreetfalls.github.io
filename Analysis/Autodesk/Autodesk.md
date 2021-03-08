@@ -1,5 +1,7 @@
 # Autodesk
 7/31/2017
+
+Forged training class receipt and certificate, then submitted expense report including mileage.
 ```
 Training    | $1,560.70
 Mileage     |    $42.80
