@@ -27,10 +27,13 @@ Line|Date|Invoice|Amount|Check Date|Check No.
 15|04/17/2017|9845210NBR|$336.98|04/18/2017|408620340
 Total| ||$5,500.04| |
 
-_ | _ |
----|---|
-<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
-<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">|
-<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">| 
-<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">| 
-<img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/Autodesk/2017-07-31%20TER%20C%20SanAntonio%20AutoDesk%2032002%20p2.png" width="425" height="550">|
+| _ | _ |
+|:-:|:-:|
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| | 
