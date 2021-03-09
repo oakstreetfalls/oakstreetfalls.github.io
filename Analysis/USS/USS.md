@@ -29,11 +29,19 @@ Total| ||$5,500.04| |
 
 | _ | _ |
 |:-:|:-:|
+|1|2|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|3|4|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|5|6|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|7|8|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|9|10|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|11|12|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|13|14|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| <img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| 
+|15|_|
 |<img src="https://oakstreetfalls.github.io/Analysis/USS/2016-11-09%20CRT%20408620213%202016-11-07%20INV%20USS%20TJ8O62RV%20409-00.png" width="425" height="550">| _ | 
