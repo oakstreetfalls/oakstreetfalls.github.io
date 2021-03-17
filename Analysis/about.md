@@ -6,6 +6,8 @@ Reports, narratives, questions, conclusions about the Evidence and Regulations.
 
 [NEISD](https://oakstreetfalls.github.io/Analysis/NEISD)
 
+[Opinion](https://oakstreetfalls.github.io/Analysis/Opinion)
+
 [Questions](https://oakstreetfalls.github.io/Analysis/ThingsThatMakeYouGoHmmm)
 
 [Suspicious](https://oakstreetfalls.github.io/Analysis/Suspicious)
