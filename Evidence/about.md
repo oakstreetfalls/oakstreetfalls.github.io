@@ -10,7 +10,7 @@
 
 [Checks, Requests, and Supporting Docs-408 ETA](https://github.com/oakstreetfalls/oakstreetfalls.github.io/tree/master/Evidence/Checking-408%20ETA)
 
-[Checks, Requests, and Supporingin Docs-General Fund](https://github.com/oakstreetfalls/oakstreetfalls.github.io/tree/master/Evidence/Checking-General%20Fund)
+[Checks, Requests, and Supporting Docs-General Fund](https://github.com/oakstreetfalls/oakstreetfalls.github.io/tree/master/Evidence/Checking-General%20Fund)
 
 [Business Records]
 
