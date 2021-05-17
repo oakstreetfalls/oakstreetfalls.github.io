@@ -20,7 +20,9 @@ _Describes expected behaviour of board members_
 
 [Board Policies](https://pol.tasb.org/Home/Index/179)
     
-[NEISD Administrative Regualtions](https://www.neisd.net/Page/10007)
+[NEISD Administrative Regulations](https://www.neisd.net/Page/10007)
+
+* [CFD(R) Activity Funds Management.pdf](https://www.neisd.net/cms/lib/TX02215002/Centricity/Domain/274/Section%20C/CFD-Rrevised.pdf)
 
 ### Local Copies
 [Board Operating Procedures](https://oakstreetfalls.github.io/Regulations/Board%20Operating%20Procedures%2011.19.2020.pdf)
