@@ -11,12 +11,13 @@
 *  Procedural 
 *  Ethical 
 *  Criminal 
+*  Boston ISD style audit of all NEISD activity funds 
   
 ### Prosecution of the primary actors
 *  Joshua A. Moreno 
 *  Cristina A. Moreno 
 *  Adam J. Taylor 
-*  Todd ?. Steveniak
+*  Todd Stefeniak
   
 ## Prevention
 
