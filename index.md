@@ -10,4 +10,4 @@
 
 [Regulations](https://oakstreetfalls.github.io/Regulations/about)
 
-[News](https://oakstreefalls.github.io/News)
+[News](https://oakstreetfalls.github.io/News)
