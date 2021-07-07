@@ -18,6 +18,6 @@ Reports, narratives, questions, conclusions about the Evidence and Regulations.
 
 [Unmanned Systems Source](https://oakstreetfalls.github.io/Analysis/USS/USS) $5,500
 
-[Watcher Drone TODO]() ~4,000.00
+[Watcher Drone TODO]() $3,690
 
-[SL Mentor TODO]() $400.00
+[SL Mentor TODO]() $400
