@@ -8,6 +8,4 @@
 
 [Prevention](https://oakstreetfalls.github.io/Prevention/about)
 
-[Regulations](https://oakstreetfalls.github.io/Regulations/about)
-
 [News](https://oakstreetfalls.github.io/News)
