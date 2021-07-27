@@ -2,7 +2,7 @@
 
 [Sources](https://oakstreetfalls.github.io/Evidence/Sources)
 
-[Regulations](https://oakstreetfalls.github.io/Evidence/Regulations)
+[Regulations](https://oakstreetfalls.github.io/Evidence/Regulations/about)
 
 [Email](https://oakstreetfalls.github.io/Evidence/Email/about.html)
 
