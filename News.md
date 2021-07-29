@@ -28,6 +28,8 @@
 
 ["Dance team teacher turns self in; faces theft allegations"](https://www.tribstar.com/news/local_news/dance-team-teacher-turns-self-in-faces-theft-allegations/article_f95175ae-358f-5137-be48-8562254c9a4f.html) ~$1,500
 
+## Austin, TX
+["Criminal justice teacher arrested, accused of stealing from students"](https://www.kxan.com/news/criminal-justice-teacher-arrested-accused-of-stealing-from-students/) $3,000+
 
 
 
