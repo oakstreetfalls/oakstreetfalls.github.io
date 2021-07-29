@@ -20,25 +20,31 @@
 *  Todd Stefeniak
   
 ## Prevention
+How do you get people to follow the rules?
 
-### Greater Visibilty
+### Visibilty
 #### For Parents and Students
 * CAFR - For both Student and Campus activity funds, publish transaction summaries for all accounts and summed by school.
 * FASRG - Fund disclosure statement on all fund raising materials.
 * FASRG - Activity fund checking account register published publicy.  Similar to what is done with the District register.
 
+### Awareness
 #### For Sponsors and Administrators
-* Increase awareness of sponsors liability--require sponsor to sign acknowledgement of liability and current balance in fund.
-* Increase awareness of principals and designees liability -- sign acknowledgment of liability and current balances in funds.
+* Have sponsors sign acknowledgement of liability and current balance in fund.
+* Have principals and designees sign acknowledgment of liability and current balances in funds.
 
 ### Clarifications
-* Of a Student Activity Organization (SAO) with an audit checklist.
-* Clarification of when the District can require payments from students to participate in activities, e.g. "skin-in-the-game".
+* Student Led Business Organization (SLBO).
+* "skin-in-the-game".
+
+### Simplification
+* SLBO audit checklist
+* SLBO document templates
+* Activity fund audit checklist
 
 ### Adjustments
-* Reclassification of student funds without a SAO to campus funds. 
+* Reclassification of student activity funds without a SLBO to campus activity funds. 
 * NEISD - Reinstatment of campus activity fund excessive accumulation limits.
 * NEISD Travel Accounting System - Upgrade of system to automatically prevent GSA per diem limits--Requires entry of individual meals.
-* Activity fund audit checklist.
 
 
