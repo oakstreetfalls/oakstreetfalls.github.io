@@ -3,7 +3,7 @@
 ## Justice
 
 ### Return of all money
-*  $2,900 more in activity funds [.xlsx](https://github.com/oakstreetfalls/oakstreetfalls.github.io/blob/master/Analysis/Additional%20ETA%20Activity%20Fund%20Losses.xlsx) [.pdf](https://github.com/oakstreetfalls/oakstreetfalls.github.io/blob/master/Analysis/Additional%20ETA%20Activity%20Fund%20Losses.xlsx%20%20-%20%20Group.pdf)
+*  $2,900 more in activity funds [.xlsx](https://oakstreetfalls.github.io/Analysis/Additional%20ETA%20Activity%20Fund%20Losses.xlsx) [.pdf](https://oakstreetfalls.github.io/Analysis/Additional%20ETA%20Activity%20Fund%20Losses.xlsx%20%20-%20%20Group.pdf)
 *  $3,690 for Watcher drone kits 
 *  $2,195 in accounting errors 
   
